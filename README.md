@@ -1,4 +1,4 @@
-## Bem vindo ao meu rep! Desde já agradeço a visita!
+## Welcome to my repository! Thanks for the visit!
 <div align="center">
   <a href="https://github.com/FilipiMachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipiMachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
