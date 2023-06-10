@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   
-  <img align="center" hidden src="">
+  <img align="center" style="display: hidden" src="">
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  
