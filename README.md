@@ -1,4 +1,4 @@
-## I'm Filipi Machado - I'm a frontend developer with more than 2 years of experience on frontend and 1+ year experience on backend. Always trying new things and development new ideas/projects.
+## I'm Filipi - I'm a frontend developer with more than 2 years of experience on frontend and 1+ year experience on backend. Always trying new things and development new ideas/projects.
 <div align="center">
   <a href="https://github.com/FilipiMachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipiMachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
