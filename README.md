@@ -8,7 +8,7 @@
   
   <img>
   
-  [![My Skills](https://skillicons.dev/icons?i=react,next,vue,js,ts,html,css,django,python,php,laravel)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,next,vue,js,ts,html,css,django,python)](https://skillicons.dev)
 
 <div> 
   <a href = "mailto:filipisee@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
