@@ -1,4 +1,4 @@
-## My name is Filipi, but you can call me Fe - I'm a front-end developer with more than 2+ years of experience on the front end and 1+ year of experience on the back end. Always trying new things and developing new ideas/projects.
+## My name is Filipi, but you can call me Fe - I'm a developer with more than 2+ years of experience. Always trying new things and developing new ideas/projects.
 <div align="center">
   <a href="https://github.com/FilipiMachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipiMachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
